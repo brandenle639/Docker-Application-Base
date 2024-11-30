@@ -22,3 +22,5 @@ Add the related Docker commands to the Dockerfile
 
 # Notes:
 The update(S) will NOT update to all containers built before the update(s)
+
+I don't own any of the install packages
