@@ -17,6 +17,7 @@ To run other docker images after building off this image add the following line 
 
 # To expand the base packages:
 Add the related OS commands(s) to the install.sh file
+
 Add the related Docker commands to the Dockerfile
 
 # Notes:
