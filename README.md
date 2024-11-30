@@ -2,7 +2,7 @@
 Creates a Docker base image with the required gui and audio packages that can be used to build other images off of for graphical docker images
 
 # To build:
-docker build -t applicationbase:{Version Number You Want} {Path of the Docker File}
+docker build -t applicationbase:{Version Number You Want} {Path of the Docker File} --no-cache
 
 *The Dockerfile and the install.sh files need to be in the same folder
 
