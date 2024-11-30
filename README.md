@@ -3,6 +3,7 @@ Creates a Docker base image with the required gui and audio packages that can be
 
 # To build:
 docker build -t applicationbase:{Version Number You Want}
+
 *The Dockerfile and the install.sh files need to be in the same folder
 
 # To use with other images:
